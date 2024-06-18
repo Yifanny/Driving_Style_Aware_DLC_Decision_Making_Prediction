@@ -1,15 +1,15 @@
 # Driving_Style_Aware_DLC_Decision_Making_Prediction
 Source code for "A Learning-Based Discretionary Lane-Change Decision-Making Model With Driving Style Awareness"
 
+For training model:
 ```
-main.py
+python main.py
 ```
-for model training.
 
+For testing model:
 ```
-main_text.py
+python main_text.py
 ```
-for model testing.
 
 
 
