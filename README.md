@@ -8,7 +8,7 @@ python main.py
 
 For testing model:
 ```
-python main_text.py
+python main_test.py
 ```
 
 
