@@ -29,6 +29,7 @@ import numpy as np
 import random
 import matplotlib.pyplot as plt
 
+# The following commented code is for data preprocesssing.
 """
 tracks = []
 tracksMeta = []
